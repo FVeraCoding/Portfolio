@@ -45,7 +45,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 Explora las diferentes secciones del portafolio:
 
-- **Inicio**
+- **Inicio**: Página principal.
 - **Sobre Mí**: Una breve introducción sobre mí.
 - **Proyectos**: Una lista de mis proyectos destacados con descripciones y enlaces.
 - **Experiencia**: Un resumen de mis habilidades técnicas y herramientas que utilizo.
@@ -56,7 +56,7 @@ Explora las diferentes secciones del portafolio:
 Si tienes alguna pregunta o deseas discutir posibles colaboraciones, no dudes en contactarme:
 
 - Email: FVeraCoding@gmail.com.com
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/fernando-vera-bernal-874980301/)
+- LinkedIn: [Fernando Vera Bernal](https://www.linkedin.com/in/fernando-vera-bernal-874980301/)
 
 ¡Gracias por visitar mi portafolio!
 
